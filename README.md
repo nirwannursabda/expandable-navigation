@@ -57,6 +57,8 @@ Download
 buildscript {
   repositories {
     jcenter()
+
+    maven { url "https://jitpack.io" }
    }
 }
 ```
