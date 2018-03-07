@@ -13,26 +13,9 @@ buildscript {
     }
 }
 
-plugins {
-    id "com.jfrog.bintray" version "1.7"
-    id "com.github.dcendents.android-maven" version "1.5"
-}
-
 allprojects {
     repositories {
         google()
         jcenter()
-    }
-
-    tasks.withType(Javadoc) {
-        options.addStringOption('Xdoclint:none', '-quiet')
-        options.addStringOption('encoding', 'UTF-8')
-    }
-
-    ext {
-        groupId = "com.techatmosphere"
-        libraryVersion = "0.1.0"
-        siteUrl = 'https://github.com/nirwannursabda/expandable-navigation'
-        gitUrl = 'https://github.com/nirwannursabda/expandable-navigation.git'
     }
 }

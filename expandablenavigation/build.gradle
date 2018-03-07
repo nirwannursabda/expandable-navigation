@@ -1,17 +1,5 @@
 apply plugin: 'com.android.library'
 
-bintray {
-    user = 'nirwannursabda'
-    key = '0c9169e26e8ecb0bbaab0ede8093722fd9ae5f0d'
-    pkg {
-        repo = 'TechAtmosphere'
-        name = 'expandablenavigation'
-        userOrg = 'nirwannursabda'
-        licenses = ['Apache-2.0']
-        vcsUrl = 'https://github.com/nirwannursabda/expandable-navigation.git'
-    }
-}
-
 android {
     compileSdkVersion 26
 
