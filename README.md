@@ -6,6 +6,9 @@ https://jitpack.io/#nirwannursabda/expandable-navigation
 # Expandable Navigation
 Menu in navigation drawer using expandable list view
 
+Inspired by Navigation Menu TokoPedia :)
+
+![alt text](https://raw.githubusercontent.com/nirwannursabda/expandable-navigation/master/image/expandable-navigation.png)
 
 Use ExpandableNavigationListView inside layout
 
