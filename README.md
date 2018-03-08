@@ -1,3 +1,6 @@
+[![Release](https://jitpack.io/v/nirwannursabda/expandable-navigation.svg)]
+(https://jitpack.io/#nirwannursabda/expandable-navigation)
+
 # Expandable Navigation
 Menu in navigation drawer using expandable list view
 
