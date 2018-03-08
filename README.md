@@ -75,7 +75,7 @@ buildscript {
 
 ```groovy
 dependencies {
-  compile 'com.techatmosphere:expandablenavigation:0.1.0'
+  compile 'com.github.nirwannursabda:expandable-navigation:0.1.2'
 }
 ```
 
