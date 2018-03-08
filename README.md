@@ -1,4 +1,4 @@
-[![Release](https://jitpack.io/v/nirwannursabda/expandable-navigation.svg)]
+![Release](https://jitpack.io/v/nirwannursabda/expandable-navigation.svg)
 (https://jitpack.io/#nirwannursabda/expandable-navigation)
 
 # Expandable Navigation
