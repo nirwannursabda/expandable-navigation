@@ -8,7 +8,9 @@ Menu in navigation drawer using expandable list view
 
 Inspired by Navigation Menu TokoPedia :)
 
-![alt text](https://raw.githubusercontent.com/nirwannursabda/expandable-navigation/master/image/expandable-navigation.png)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nirwannursabda/expandable-navigation/master/image/expandable-navigation.png" width="350"/>
+</p>
 
 Use ExpandableNavigationListView inside layout
 
