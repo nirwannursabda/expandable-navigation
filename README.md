@@ -1,5 +1,7 @@
 ![Release](https://jitpack.io/v/nirwannursabda/expandable-navigation.svg)
+```groovy
 https://jitpack.io/#nirwannursabda/expandable-navigation
+```
 
 # Expandable Navigation
 Menu in navigation drawer using expandable list view
